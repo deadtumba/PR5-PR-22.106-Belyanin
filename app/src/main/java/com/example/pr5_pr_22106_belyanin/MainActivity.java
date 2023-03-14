@@ -21,7 +21,7 @@ import android.view.MenuItem;
 public class MainActivity extends AppCompatActivity {
 
     private AppBarConfiguration appBarConfiguration;
-    private ActivityMainBinding binding;
+    private ActivityMainBinding binding;//
 //hohoh
     @Override
     protected void onCreate(Bundle savedInstanceState) {
